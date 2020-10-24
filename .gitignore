@@ -5,6 +5,7 @@
 # c++
 # ros
 ########################
+utils
 
 .vscode/*
 !.vscode/settings.json
